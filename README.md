@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Sander Nunes and I'm the fastest man alive 😌⚡⚡😁 , I use programming to slove problems and make new ones so that I can slove again 😎. 
+## My name is Sander Nunes and I'm the fastest man alive 😌⚡⚡😁 , I use programming to solve problems and make new ones so that I can solve again 😎. 
 
 - 🔭 I’m currently working on PayO ( A payment gateway + wallet ) 
 - 🌱 I’m currently learning Blockchain and crypto
