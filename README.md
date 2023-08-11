@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning Blockchain and crypto
 - 👯 I’m looking to collaborate on open projects and projects financially related 
 - 🤔 I’m looking for help with Crypto and blockchain 
-- 📫 To reach me please contact on https://sandernunesportfolio.netlify.app/
+- 📫 To reach me please contact on LinkedIn Pascoal Nunes
 - ⚡ Fun fact: If I'm not coding I'm gaming 
